@@ -1,0 +1,7 @@
+POST http://localhost:4242/api/data
+
+Content-Type: application/json
+
+{
+    "name" : "Komal"
+}
